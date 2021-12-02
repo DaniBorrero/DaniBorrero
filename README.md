@@ -5,7 +5,9 @@
 
 
 
-- 📄  Soy un aprendiz en el mundo del desarrollo web, apasionado por seguir aprendiendo y crecer como profesional. Actualmente estoy en busca de nuevos desafíos en el mundo del desarrollo de software, me considero una persona adaptable, que puede trabajar en equipo y dispuesto a seguir aprendiendo.Soy un aprendiz en el mundo del desarrollo web, apasionado por seguir aprendiendo y crecer como profesional. Actualmente estoy en busca de nuevos desafíos en el mundo del desarrollo de software, me considero una persona adaptable, que puede trabajar en equipo y dispuesto a seguir aprendiendo.
+- 📄  Soy un aprendiz en el mundo del desarrollo web, apasionado por seguir aprendiendo y crecer como profesional. Actualmente estoy en busca de nuevos desafíos en el mundo del desarrollo de software, me considero una persona adaptable, que puede trabajar en equipo y dispuesto a seguir aprendiendo. Actualmente estoy aprendiendo sobre React-Native y typescrip gracias a un curso en Udemy.
+
+Apasionado por la tecnologia :technologist:, los videojuegos :joystick: y el arte callejero :performing_arts:.
 
 <h3 align="left">Connect with me:</h3>
 
